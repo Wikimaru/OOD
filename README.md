@@ -1,2 +1,2 @@
 # OOD
-Op Object Data
+object oriented data structures
